@@ -8,4 +8,4 @@ The organization is experiencing high churn rate amongst its customers and desir
 
 The organization offers services to about 10,000 customers across three cities namely: France(5,000), Germany(3,000) and Spain(2,000). While about 52% of its customers were active, 48% were inactive across the cities of operation. The customer base also constitutes of age groups as follows: Young Adults, Adults, Middle-aged and Elderly customers. And with categorized Membership types: Silver, Gold, Diamond and Platinum. 
 
-view full report here:https://medium.com/@oluomaIlobah/customer-churn-analysis-f047f4edf611
+**view full report here:** https://medium.com/@oluomaIlobah/customer-churn-analysis-f047f4edf611
