@@ -1,3 +1,5 @@
+**A PROJECT ON CUSTOMER CHURN ANALYSIS**
+
 The organization is experiencing high churn rate amongst its customers and desires to reduce the rate of defection by identifying customer pain-points, and optimizing customer experience to improve retention across all its branches by 95%.
 
 Project Overview:
